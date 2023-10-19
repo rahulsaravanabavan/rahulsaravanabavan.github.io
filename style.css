@@ -98,6 +98,7 @@ li a:hover {
 li a.active{
     background-color: floralwhite;
 }
+/* My option A navbar ends here*/
 
 /*h3 has a uniform pattern throughout the two pages where font I have imported at the top from google fonts*/
 h3 {
@@ -196,7 +197,9 @@ a:hover, a:active {
     padding: 10px 10px;
     text-decoration: underline;
     display: inline-block;
+    border-radius: 50%;
 } 
+/* My option B and C ends here which is links and table*/
 
 /* This is my Project section*/
 .projects {
