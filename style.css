@@ -189,7 +189,7 @@ a:hover, a:active {
 
 /* while the mouse curson points over the text it hover the space in red color*/
 .table tr:hover {
-    background-color: goldenrod;
+    background-color: CornflowerBlue;
 }
 .table a:link {
     background-color: skyblue;
@@ -199,6 +199,9 @@ a:hover, a:active {
     display: inline-block;
     border-radius: 50%;
 } 
+.table a:hover {
+    background-color: goldenrod;
+}
 /* My option B and C ends here which is links and table*/
 
 /* This is my Project section*/
