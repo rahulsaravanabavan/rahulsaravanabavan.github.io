@@ -58,11 +58,6 @@ body {
     text-align: left;
 }
 
-/* This main class is to target the main index.html page to align the ody content below the header content which is fixed*/
-body.main {
-    margin-top: 200px;
-}
-
 /* This is the option A which I have included a Navbar which has a fixed postion aligned to right*/
 #navbar {
     position: fixed;
