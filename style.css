@@ -57,6 +57,9 @@ body {
     font-family: "Crimson Text", serif;
     text-align: left;
 }
+body.main {
+    margin-top: 200px;
+}
 
 /* This is the option A which I have included a Navbar which has a fixed postion aligned to right*/
 #navbar {
